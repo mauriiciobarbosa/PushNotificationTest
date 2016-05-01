@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushNotificationTest</string>
+    <string name="title">Mensagens</string>
+    <string name="sync">Sincronizar</string>
+    <string name="texto_notificacao">Novas mensagens</string>
+    <string name="gcm_nao_suportado">Aparelho não compatível com o GCM.</string>
+</resources>

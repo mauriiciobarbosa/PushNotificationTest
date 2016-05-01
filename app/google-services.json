@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "129395946722",
+    "project_id": "pushnotificationtest-b4432"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129395946722:android:306387ff63fb717e",
+        "android_client_info": {
+          "package_name": "dominando.android.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASBUfh1Bqb6rUnFQaPEx-STKe2-j1y-js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
